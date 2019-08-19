@@ -25,7 +25,7 @@ We welcome any stupid, abmormal, irregular code
 
 我们欢迎任何沙雕代码
 
-Congratulations! You are a developer now(not yet
+Congratulations! You are a developer now(not yet.....)
 
 恭喜，您已经是一位开发者了（emmmmm。。。）
 
