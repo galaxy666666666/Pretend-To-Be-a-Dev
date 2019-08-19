@@ -2,6 +2,7 @@
 假装自己是Dev:
 
 Hi, welcome here
+
 嗨，欢迎来这个仓库
 
 I'm really surprised that you entered this respository with such a strange（really stupid） name....
